@@ -1,0 +1,71 @@
+
+.padre {
+	margin-left: 10%;
+	width: 80%;
+	height: 500px;
+	background-color: white;
+	border-style: solid;
+	border-color: white;
+}
+.hijo {
+	float: left;
+	width: 30%;
+	height: 300px;
+	background-color: white;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #CCCCCC;
+	margin-left: 2.5%;
+	margin-top: 20px;
+	right: 20px;
+	color: black;
+	border-radius: 5px;
+}
+.hijo2 {
+	float: left;
+	width: 30%;
+	height: 300px;
+	background-color: white;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #CCCCCC;
+	margin-left: 2.5%;
+	margin-top: 20px;
+	right: 20px;
+	color: black;
+	border-radius: 5px;
+}
+.hijo3 {
+	float: right;
+	width: 30%;
+	height: 300px;
+	background-color: white;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #CCCCCC;
+	margin-top: 20px;
+	margin-left: 2.5%;
+	margin-right: 2.5%;
+	color: black;
+	border-radius: 5px;
+}
+.textos_caj {
+	margin-right: 10px;
+	margin-left: 10px;
+}
+.raya {
+	width: 70%;
+	height: 1px;
+	background-color: #CCCCCC;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+.caja_inferior {
+	width: 100%;
+	height: 70px;
+	background-color: #EEEEEE;
+	border-style: solid;
+	border-color: #E0E0E0;
+	margin-bottom: 10px;
+	color: #EEEEEE;
+}

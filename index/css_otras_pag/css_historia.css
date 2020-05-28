@@ -1,0 +1,23 @@
+  .padre {
+  margin-left: 5%;
+  width: 90%;
+  height: 1000px;
+  background-color: white;
+  border-style: solid;
+  border-color: white;
+  }
+  .caja_inferior {
+  width: 100%;
+  height: 70px;
+  background-color: #EEEEEE;
+  border-style: solid;
+  border-color: #E0E0E0;
+  margin-bottom: 10px;
+  color: #EEEEEE;
+}
+.texto1 {
+  padding-right: 30px;
+  padding-left: 30px;
+  font-family: georgia;
+  font-size: 24px;
+}
